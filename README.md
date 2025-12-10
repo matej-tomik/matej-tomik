@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me<br><br>Aspiring Software Engineer with 1.5 years of experience as a Technical Support Engineer, building a strong foundation in backend development, automation, and system reliability. Passionate about creating efficient, well-designed software and continuously expanding my skills.<br><br>I enjoy working with Python, TypeScript, FastAPI, Docker, and cloud technologies like AWS. Recently, I built a Stock Evaluation Tool that runs financial models such as DCF and Benjamin Graham analysis using real-time market data.<br><br>I’m motivated, always learning, and excited to grow my career as a software engineer through impactful projects and clean, scalable code.
+# 👋 About Me:
+Aspiring Software Engineer with 1.5 years of experience as a Technical Support Engineer, building a strong foundation in backend development, automation, and system reliability. Passionate about creating efficient, well-designed software and continuously expanding my skills.<br><br>I enjoy working with Python, TypeScript, FastAPI, Docker, and cloud technologies like AWS. Recently, I built a Stock Evaluation Tool that runs financial models such as DCF and Benjamin Graham analysis using real-time market data.<br><br>I’m motivated, always learning, and excited to grow my career as a software engineer through impactful projects and clean, scalable code.
 
 
 ## 🌐 Socials:
